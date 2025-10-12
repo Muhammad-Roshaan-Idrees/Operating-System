@@ -1,37 +1,88 @@
-# Operating System
+# Operating System Coursework
 
-This repository contains lab exercises and solutions for Operating System coursework, performed on Ubuntu. Each lab includes code execution examples and their corresponding screenshots.
-
-## Contents
-- Code execution outputs and screenshots
-
-## Getting Started
-
-1. **Clone the repository:**
-    ```bash
-    git clone <repository-url>
-    ```
-2. **Navigate to the directory:**
-    ```bash
-    cd Operating-System
-    ```
-3. **Ensure you are using Ubuntu (recommended version: 20.04 or later).**
-
-## Labs
-
-Each lab folder contains:
-- Output screenshots
-
-## Requirements
-
-- Ubuntu OS
-- GCC or relevant compilers
-- Basic knowledge of C programming
-
-## How to Contribute
-
-Feel free to submit pull requests or open issues for improvements.
+Welcome to the **Operating System Coursework** repository. This repository contains comprehensive lab exercises and solutions designed for hands-on learning and experimentation with operating system concepts on Ubuntu.
 
 ---
 
-*This repository is intended for educational purposes only.*
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+- [Labs](#labs)
+- [Requirements](#requirements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
+
+---
+
+## Overview
+
+This repository provides:
+- Step-by-step lab exercises
+- Sample code and execution outputs
+- Screenshots demonstrating results
+
+---
+
+## Getting Started
+
+To get started with the repository:
+
+1. **Clone the repository**
+    ```bash
+    git clone 
+    ```
+2. **Navigate to the project directory**
+    ```bash
+    cd Operating-System
+    ```
+3. **Recommended Environment**
+    - Ubuntu 20.04 or later
+
+---
+
+## Labs
+
+Each lab directory includes:
+- Source code files
+- Output screenshots
+
+Refer to the respective lab folders for more details.
+
+---
+
+## Requirements
+
+- Ubuntu OS (20.04 or later recommended)
+- GCC or compatible C compiler
+- Basic knowledge of C programming
+- Basic knowledge of Java Programming
+
+---
+
+## Contributing
+
+Contributions are welcome! To contribute:
+
+- Fork the repository
+- Create a new branch for your feature or fix
+- Submit a pull request with a clear description
+
+For suggestions or issues, please open an [issue](https://github.com/your-repo/issues).
+
+---
+
+## License
+
+This repository is intended for educational purposes only.
+
+---
+
+## Author
+
+- [Your GitHub Profile](https://github.com/your-github-username)
+
+---
+
+*Thank you for visiting! Happy learning!*
