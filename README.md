@@ -1,7 +1,6 @@
 # Operating System Coursework
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Glider.svg" alt="Operating System" width="80" />
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Logo" width="80" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Tux" width="80" />
 </p>
