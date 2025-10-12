@@ -1,5 +1,11 @@
 # Operating System Coursework
 
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Glider.svg" alt="Operating System" width="80" />
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Logo" width="80" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Tux" width="80" />
+</p>
+
 Welcome to the **Operating System Coursework** repository! This repository offers hands-on lab exercises and solutions to help you learn and experiment with operating system concepts, primarily on Ubuntu.
 
 ---
@@ -30,15 +36,15 @@ This repository includes:
 To begin:
 
 1. **Clone the repository**
-    ```bash
-    git clone https://github.com/Muhammad-Roshaan-Idrees/Operating-System.git
-    ```
+        ```bash
+        git clone https://github.com/Muhammad-Roshaan-Idrees/Operating-System.git
+        ```
 2. **Navigate to the project directory**
-    ```bash
-    cd Operating-System
-    ```
+        ```bash
+        cd Operating-System
+        ```
 3. **Recommended Environment**
-    - Ubuntu 20.04 or newer
+        - Ubuntu 20.04 or newer
 
 ---
 
@@ -86,3 +92,4 @@ This repository is for educational purposes only.
 ---
 
 *Thank you for visiting! Happy learning!*
+
