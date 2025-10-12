@@ -8,50 +8,6 @@
 
 Comprehensive OS lab exercises and solutions for academic and self-learning purposes.
 
-# Operating-System 
-
-Comprehensive OS lab exercises and solutions for academic and self-learning purposes.
-
----
-
-## 🚀 Overview
-
-This repository contains a curated collection of lab exercises and solutions for Operating Systems (OS), with a focus on Ubuntu environments. It includes C and Java programs, sample outputs, and tutorial resources to support learning key OS concepts such as process management, file permissions, and system calls.
-
----
-
-## 📦 Installation
-
-**System Requirements:**
-- Ubuntu 20.04 or newer (recommended)
-- GCC (for C programs)
-- JDK (for Java programs)
-
-**Useful Downloads:**
-- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-- [Ubuntu 22.04 LTS ISO](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso)
-
-**Steps:**
-1. **Clone the Repository:**
-        ```sh
-        git clone https://github.com/Muhammad-Roshaan-Idrees/Operating-System.git
-        ```
-2. **Navigate to the Directory:**
-        ```sh
-        cd Operating-System
-        ```
-3. **Install GCC:**
-        ```sh
-        sudo apt update
-        sudo apt install build-essential
-        ```
-4. **Install JDK:**
-        ```sh
-        sudo apt install openjdk-11-jdk
-        ```
-
----
-
 ## 📚 Table of Contents
 
 - [About](#about)
@@ -93,6 +49,34 @@ By working through these labs, you will:
         - GCC (for C programs)  
         - JDK (for Java programs)
 - **Knowledge:** Basic familiarity with C, Java, and Linux command-line
+
+**System Requirements:**
+- Ubuntu 20.04 or newer (recommended)
+- GCC (for C programs)
+- JDK (for Java programs)
+
+**Useful Downloads:**
+- [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Ubuntu 22.04 LTS ISO](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso)
+
+**Steps:**
+1. **Clone the Repository:**
+        ```sh
+        git clone https://github.com/Muhammad-Roshaan-Idrees/Operating-System.git
+        ```
+2. **Navigate to the Directory:**
+        ```sh
+        cd Operating-System
+        ```
+3. **Install GCC:**
+        ```sh
+        sudo apt update
+        sudo apt install build-essential
+        ```
+4. **Install JDK:**
+        ```sh
+        sudo apt install openjdk-11-jdk
+        ```
 
 **Running Labs:**
 
