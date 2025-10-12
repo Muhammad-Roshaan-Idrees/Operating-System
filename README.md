@@ -1,18 +1,12 @@
 # Operating System Coursework
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Glider.svg" alt="Operating System" width="80" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Glider.svg" alt="Operating System" width="80" />
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Logo" width="80" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Tux" width="80" />
 </p>
 
 Welcome to the **Operating System Coursework** repository! This repository offers hands-on lab exercises and solutions to help you learn and experiment with operating system concepts, primarily on Ubuntu.
-
-You will find a variety of resources, including:
-
-- Code screenshots for reference
-- Animated diagrams and real-time GIFs to visualize OS concepts
-- Images and illustrations to enhance understanding
 
 ---
 
@@ -32,9 +26,7 @@ You will find a variety of resources, including:
 
 This repository includes:
 - Step-by-step lab exercises
-- Sample code and output examples (with screenshots)
-- Animated GIFs and images demonstrating OS processes
-- Visual aids and diagrams for better conceptual clarity
+- Screenshots of outputs
 
 ---
 
@@ -59,8 +51,7 @@ To begin:
 
 Each lab folder contains:
 - Source code files
-- Output screenshots and code snippets
-- Animations and real-time GIFs demonstrating lab results
+- Output screenshots 
 
 See individual lab directories for details.
 
