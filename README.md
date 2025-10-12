@@ -1,11 +1,11 @@
-# Operating System Coursework
+# Operating System
 
 <p align="center">
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Logo" width="80" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Tux" width="80" />
 </p>
 
-Welcome to the **Operating System Coursework** repository! This repository offers hands-on lab exercises and solutions to help you learn and experiment with operating system concepts, primarily on Ubuntu.
+Welcome to the **Operating System** repository! This repository offers hands-on lab exercises and solutions to help you learn and experiment with operating system concepts, primarily on Ubuntu.
 
 ---
 
