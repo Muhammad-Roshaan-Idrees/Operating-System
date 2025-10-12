@@ -8,6 +8,12 @@
 
 Welcome to the **Operating System Coursework** repository! This repository offers hands-on lab exercises and solutions to help you learn and experiment with operating system concepts, primarily on Ubuntu.
 
+You will find a variety of resources, including:
+
+- Code screenshots for reference
+- Animated diagrams and real-time GIFs to visualize OS concepts
+- Images and illustrations to enhance understanding
+
 ---
 
 ## Table of Contents
@@ -26,8 +32,9 @@ Welcome to the **Operating System Coursework** repository! This repository offer
 
 This repository includes:
 - Step-by-step lab exercises
-- Sample code and output examples
-- Screenshots of results
+- Sample code and output examples (with screenshots)
+- Animated GIFs and images demonstrating OS processes
+- Visual aids and diagrams for better conceptual clarity
 
 ---
 
@@ -36,15 +43,15 @@ This repository includes:
 To begin:
 
 1. **Clone the repository**
-        ```bash
-        git clone https://github.com/Muhammad-Roshaan-Idrees/Operating-System.git
-        ```
+    ```bash
+    git clone https://github.com/Muhammad-Roshaan-Idrees/Operating-System.git
+    ```
 2. **Navigate to the project directory**
-        ```bash
-        cd Operating-System
-        ```
+    ```bash
+    cd Operating-System
+    ```
 3. **Recommended Environment**
-        - Ubuntu 20.04 or newer
+    - Ubuntu 20.04 or newer
 
 ---
 
@@ -52,7 +59,8 @@ To begin:
 
 Each lab folder contains:
 - Source code files
-- Output screenshots
+- Output screenshots and code snippets
+- Animations and real-time GIFs demonstrating lab results
 
 See individual lab directories for details.
 
@@ -92,4 +100,3 @@ This repository is for educational purposes only.
 ---
 
 *Thank you for visiting! Happy learning!*
-
