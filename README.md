@@ -1,6 +1,6 @@
 # Operating System Coursework
 
-Welcome to the **Operating System Coursework** repository. This repository contains comprehensive lab exercises and solutions designed for hands-on learning and experimentation with operating system concepts on Ubuntu.
+Welcome to the **Operating System Coursework** repository! This repository offers hands-on lab exercises and solutions to help you learn and experiment with operating system concepts, primarily on Ubuntu.
 
 ---
 
@@ -18,46 +18,46 @@ Welcome to the **Operating System Coursework** repository. This repository conta
 
 ## Overview
 
-This repository provides:
+This repository includes:
 - Step-by-step lab exercises
-- Sample code and execution outputs
-- Screenshots demonstrating results
+- Sample code and output examples
+- Screenshots of results
 
 ---
 
 ## Getting Started
 
-To get started with the repository:
+To begin:
 
 1. **Clone the repository**
     ```bash
-    git clone 
+    git clone https://github.com/Muhammad-Roshaan-Idrees/Operating-System.git
     ```
 2. **Navigate to the project directory**
     ```bash
     cd Operating-System
     ```
 3. **Recommended Environment**
-    - Ubuntu 20.04 or later
+    - Ubuntu 20.04 or newer
 
 ---
 
 ## Labs
 
-Each lab directory includes:
+Each lab folder contains:
 - Source code files
 - Output screenshots
 
-Refer to the respective lab folders for more details.
+See individual lab directories for details.
 
 ---
 
 ## Requirements
 
-- Ubuntu OS (20.04 or later recommended)
+- Ubuntu OS (20.04 or newer recommended)
 - GCC or compatible C compiler
-- Basic knowledge of C programming
-- Basic knowledge of Java Programming
+- Basic C programming knowledge
+- Basic Java programming knowledge
 
 ---
 
@@ -65,23 +65,23 @@ Refer to the respective lab folders for more details.
 
 Contributions are welcome! To contribute:
 
-- Fork the repository
-- Create a new branch for your feature or fix
+- Fork this repository
+- Create a new branch for your changes
 - Submit a pull request with a clear description
 
-For suggestions or issues, please open an [issue](https://github.com/your-repo/issues).
+For suggestions or issues, open an [issue](https://github.com/Muhammad-Roshaan-Idrees/Operating-System/issues).
 
 ---
 
 ## License
 
-This repository is intended for educational purposes only.
+This repository is for educational purposes only.
 
 ---
 
 ## Author
 
-- [Your GitHub Profile](https://github.com/your-github-username)
+- [Muhammad-Roshaan-Idrees](https://github.com/Muhammad-Roshaan-Idrees)
 
 ---
 
