@@ -96,6 +96,10 @@ Navigate to the desired lab folder (e.g., `Lab03`) and follow the instructions t
 | Lab 05   | C Programs             | 
 | Lab 06   | System Utilities       | 
 | Lab 07   | Advanced OS Concepts   | 
+| Lab 09   | TBD                    |
+| Lab 10   | TBD                    |
+| Lab 11   | TBD                    |
+| Lab 12   | TBD                    |
 
 Each lab folder contains source code and output screenshots.
 
