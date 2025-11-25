@@ -100,6 +100,9 @@ Navigate to the desired lab folder (e.g., `Lab03`) and follow the instructions t
 | Lab 10   | TBD                    |
 | Lab 11   | TBD                    |
 | Lab 12   | TBD                    |
+| Lab 13   |Scheduling Algorithms   |
+| Lab 14   |Scheduling Algorithms   |
+
 
 Each lab folder contains source code and output screenshots.
 
